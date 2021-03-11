@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\child-model",
+    "\\src\\app\\child-model\\add-child",
+    "\\src\\app\\Dialogbox",
+    "\\src\\app\\Dialogbox\\dialogbox",
+    "\\src\\app\\nav",
+    "\\src\\app\\tag-cloud",
+    "\\src\\app\\teach-add-child"
+  ],
+  "SelectedNode": "\\src\\app\\nav\\nav.component.ts",
+  "PreviewInSolutionExplorer": false
+}
